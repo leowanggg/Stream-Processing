@@ -87,6 +87,6 @@ The input stream has 10000000 symbols(lines) drew from 10000000 different number
 
 ### PS:
 
-You can see the detail of this program by reading Report.pdf
+You can see the details of this project by reading Report.pdf
 
 
