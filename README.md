@@ -19,7 +19,7 @@ The papers of these two algorithms are shown below:
 
 - g++
 
-### Start
+### Start:
 
 In this directory, it contains three files, generate_stream.cpp, stream_processing.cpp and makefile.
 
@@ -66,7 +66,7 @@ $ stream_processing maj 0.5 will run the first algorithm and find the elements w
 
 ----------------------------------------------------------------------------------------------------
 
-### Testing procedure:
+### Test:
 
 Here is a testing procedure I used:
 
@@ -85,7 +85,7 @@ The input stream has 10000000 symbols(lines) drew from 10000000 different number
 - Execute tthe brute-force alforithm for estimating the entropy of the input stream.
     $ ./generate_stream 10000000 10000000 uni 1 1| ./stream_processing entB. 
 
-### PS 
+### PS:
 
 You can see the detail of this program by reading Report.pdf
 
