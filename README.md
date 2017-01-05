@@ -29,8 +29,8 @@ generate_stream is a program to print a pseudo random stream.
 
 #### Command: 
     $ ./generate_stream <number of lines> <number of symbols> <type of distribution> <times> <seed> (<r>)  
-- <number of lines>: the number of lines of the stream.
-- <number of symbols>: all the different values in the stream, each value is a random number.
+- \<number of lines>: the number of lines of the stream.
+- \<number of symbols>: all the different values in the stream, each value is a random number.
 - <type of distribution>: the type of the distribution of the random number. [uni] represents uniform distribution and [geo] is geometric distribution.  
 - <times>: the times of the printing of the stream, i.e 1 means to print the stream once, 10 means to print the stream 10 times.(the first(maj) and second(ent) algorithms need 2 passes)
 - <seed>: seed for random number generator, i.e 1.  
